@@ -1,8 +1,5 @@
-getAwesomeness()
+Awesome list
 ==============
-
-getAwesomeness() is an explorer designed for curated awesome list hosted on Github. Website: https://getawesomeness.herokuapp.com/ or http://getawesomeness.com
-
 
 ## Key Features
 
@@ -17,8 +14,8 @@ As a developer, we need check out these resources pretty often, and we want to s
 ## Install
 
 ```sh
-$ git clone git://github.com/panzhangwang/getAwesomeness.git
-$ cd getAwesomeness
+$ git clone git@github.com:wangmingjob/awesome-list.git
+$ cd awesome-list
 $ npm install
 $ npm start
 ```
