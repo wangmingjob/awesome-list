@@ -1,0 +1,23 @@
+{
+	"general": "general",
+	"scripting": "scripting",
+	"web.framework": "web.framework",
+	"jvm": "jvm",
+	"domain.specific": "domain.specific",
+	"functional": "functional",
+	"web": "web",
+	"mobile": "mobile",
+	"frontend": "frontend",
+	"backend": "backend",
+	"danymic": "danymic",
+	"editors": "editors",
+	"self.education": "self.education",
+	"data": "data",
+	"dev.tools": "dev.tools",
+	"platforms": "platforms",
+	"others": "others",
+	"web-framework": "web-framework",
+	"domain-specific": "domain-specific",
+	"self-education": "self-education",
+	"dev-tools": "dev-tools"
+}

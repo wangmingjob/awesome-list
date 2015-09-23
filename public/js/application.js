@@ -1,0 +1,9 @@
+//= require jquery-1.11.1.min
+//= require bootstrap.min
+//= require material
+//= require ripples
+//= require jquery.tagsinput.min
+//= require toc.min
+//= require jquery.scrollToTop
+//= require bootstrap3-typeahead
+//= require main

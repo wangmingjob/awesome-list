@@ -1,0 +1,10 @@
+{% extends 'layouts/default.html' %}
+
+{% block content %}
+	<h2>Github does not respond, try again later.</h2>
+  {% if (env == 'development') %}
+    <pre>
+      {{ error }}
+    </pre>
+  {% endif %}
+{% endblock %}

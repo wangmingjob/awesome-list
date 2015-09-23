@@ -1,0 +1,590 @@
+{
+  "groups": [
+    {
+      "key": "general",
+      "items": [
+        "c",
+        "cpp",
+        "d",
+        "delphi",
+        "fortran",
+        "go",
+        "perl",
+        "rust",
+        "net",
+        "python",
+        "ruby",
+        "swift"
+      ]
+    },
+    {
+      "key": "scripting",
+      "items": [
+        "autohotkey",
+        "coldfusion",
+        "groovy",
+        "js",
+        "shell",
+        "lua",
+        "perl",
+        "php"
+      ]
+    },
+    {
+      "key": "web-framework",
+      "items": [
+        "cakephp",
+        "laravel",
+        "symfony"
+      ]
+    },
+    {
+      "key": "jvm",
+      "items": [
+        "java",
+        "scala"
+      ]
+    },
+    {
+      "key": "domain-specific",
+      "items": [
+        "r"
+      ]
+    },
+    {
+      "key": "functional",
+      "items": [
+        "clojure",
+        "elixir",
+        "ocaml",
+        "haskell",
+        "erlang",
+        "erlang_bm"
+      ]
+    },
+    {
+      "key": "web",
+      "items": [
+        "angularjs",
+        "backbone",
+        "dojo",
+        "jquery",
+        "knockout",
+        "nodejs",
+        "php",
+        "react",
+        "webcomponents"
+      ]
+    },
+    {
+      "key": "mobile",
+      "items": [
+        "android",
+        "apple",
+        "ios",
+        "cordova"
+      ]
+    },
+    {
+      "key": "frontend",
+      "items": [
+        "docs",
+        "svg",
+        "images",
+        "front_dev",
+        "h5"
+      ]
+    },
+    {
+      "key": "backend",
+      "items": [
+        "docker",
+        "gamedev",
+        "openresty",
+        "servicesengineering",
+        "sysadmin"
+      ]
+    },
+    {
+      "key": "danymic",
+      "items": [
+        "clojure",
+        "julia"
+      ]
+    },
+    {
+      "key": "editors",
+      "items": [
+        "sublime",
+        "vim"
+      ]
+    },
+    {
+      "key": "self-education",
+      "items": [
+        "algorithm",
+        "conferences",
+        "testbook",
+        "koans",
+        "openscience",
+        "papers",
+        "talks",
+        "weekly"
+      ]
+    },
+    {
+      "key": "data",
+      "items": [
+        "analytics",
+        "db",
+        "datascience",
+        "dataset",
+        "ml",
+        "hadoop"
+      ]
+    },
+    {
+      "key": "dev-tools",
+      "items": [
+        "tools",
+        "dotfiles",
+        "devenv"
+      ]
+    },
+    {
+      "key": "platforms",
+      "items": [
+        "osx"
+      ]
+    },
+    {
+      "key": "others",
+      "items": [
+        "ccm",
+        "ciandcd",
+        "community",
+        "styleguide",
+        "nlp",
+        "vagrant",
+        "wpo"
+      ]
+    }
+  ],
+  "defs": [
+    {
+      "key": "cpp",
+      "name": "C/C++",
+      "repo": "/fffaraz/awesome-cpp"
+    },
+    {
+      "key": "c",
+      "name": "C",
+      "repo": "/aleksandar-todorovic/awesome-c"
+    },
+    {
+      "key": "autohotkey",
+      "name": "AutoHotkey",
+      "repo": "/ahkscript/awesome-AutoHotkey"
+    },
+    {
+      "key": "coldfusion",
+      "name": "ColdFusion",
+      "repo": "/seancoyne/awesome-coldfusion"
+    },
+    {
+      "key": "d",
+      "name": "D",
+      "repo": "/zhaopuming/awesome-d"
+    },
+    {
+      "key": "delphi",
+      "name": "Delphi",
+      "repo": "/Fr0sT-Brutal/awesome-delphi"
+    },
+    {
+      "key": "fortran",
+      "name": "Fortran",
+      "repo": "/rabbiabram/awesome-fortran"
+    },
+    {
+      "key": "go",
+      "name": "Go",
+      "repo": "/avelino/awesome-go"
+    },
+    {
+      "key": "perl",
+      "name": "Perl",
+      "repo": "/hachiojipm/awesome-perl"
+    },
+    {
+      "key": "rust",
+      "name": "Rust",
+      "repo": "/kud1ing/awesome-rust"
+    },
+    {
+      "key": "net",
+      "name": ".Net",
+      "repo": "/quozd/awesome-dotnet"
+    },
+    {
+      "key": "python",
+      "name": "Python",
+      "repo": "/kirang89/pycrumbs",
+      "file": "pycrumbs.md"
+    },
+    {
+      "key": "ruby",
+      "name": "Ruby",
+      "repo": "/markets/awesome-ruby"
+    },
+    {
+      "key": "swift",
+      "name": "Swift",
+      "repo": "/matteocrippa/awesome-swift"
+    },
+    {
+      "key": "groovy",
+      "name": "Groovy",
+      "repo": "/kdabir/awesome-groovy"
+    },
+    {
+      "key": "js",
+      "name": "JavaScript",
+      "repo": "/sorrycc/awesome-javascript"
+    },
+    {
+      "key": "shell",
+      "name": "Shell",
+      "repo": "/alebcay/awesome-shell"
+    },
+    {
+      "key": "lua",
+      "name": "Lua",
+      "repo": "/LewisJEllis/awesome-lua"
+    },
+    {
+      "key": "php",
+      "name": "PHP",
+      "repo": "/ziadoz/awesome-php"
+    },
+    {
+      "key": "cakephp",
+      "name": "CakePHP",
+      "repo": "/FriendsOfCake/awesome-cakephp"
+    },
+    {
+      "key": "laravel",
+      "name": "Laravel",
+      "repo": "/timothydjones/awesome-laravel"
+    },
+    {
+      "key": "symfony",
+      "name": "Symfony",
+      "repo": "/EmanueleMinotto/awesome-symfony2"
+    },
+    {
+      "key": "java",
+      "name": "Java",
+      "repo": "/akullpp/awesome-java"
+    },
+    {
+      "key": "scala",
+      "name": "Scala",
+      "repo": "/lauris/awesome-scala"
+    },
+    {
+      "key": "r",
+      "name": "R",
+      "repo": "/qinwf/awesome-R"
+    },
+    {
+      "key": "clojure",
+      "name": "Clojure",
+      "repo": "/razum2um/awesome-clojure"
+    },
+    {
+      "key": "elixir",
+      "name": "Elixir",
+      "repo": "/h4cc/awesome-elixir"
+    },
+    {
+      "key": "ocaml",
+      "name": "OCaml",
+      "repo": "/rizo/awesome-ocaml"
+    },
+    {
+      "key": "haskell",
+      "name": "Haskell",
+      "repo": "/krispo/awesome-haskell"
+    },
+    {
+      "key": "erlang",
+      "name": "Erlang",
+      "repo": "/drobakowski/awesome-erlang"
+    },
+    {
+      "key": "erlang_bm",
+      "name": "Erlang Bookmarks",
+      "repo": "/0xAX/erlang-bookmarks",
+      "file": "ErlangBookmarks.md"
+    },
+    {
+      "key": "angularjs",
+      "name": "AngularJS",
+      "repo": "/gianarb/awesome-angularjs"
+    },
+    {
+      "key": "backbone",
+      "name": "Backbone",
+      "repo": "/instanceofpro/awesome-backbone"
+    },
+    {
+      "key": "dojo",
+      "name": "Dojo",
+      "repo": "/peterkokot/awesome-dojo"
+    },
+    {
+      "key": "jquery",
+      "name": "jQuery",
+      "repo": "/peterkokot/awesome-jquery"
+    },
+    {
+      "key": "knockout",
+      "name": "Knockout",
+      "repo": "/peterkokot/awesome-knockout",
+      "file": "readme.md"
+    },
+    {
+      "key": "nodejs",
+      "name": "Node",
+      "repo": "/sindresorhus/awesome-nodejs",
+      "file": "readme.md"
+    },
+    {
+      "key": "react",
+      "name": "React",
+      "repo": "/enaqx/awesome-react"
+    },
+    {
+      "key": "webcomponents",
+      "name": "Web Components",
+      "repo": "/mateusortiz/webcomponents-the-right-way"
+    },
+    {
+      "key": "android",
+      "name": "Android",
+      "repo": "/JStumpp/awesome-android",
+      "file": "readme.md"
+    },
+    {
+      "key": "apple",
+      "name": "Apple",
+      "repo": "/joeljfischer/awesome-apple"
+    },
+    {
+      "key": "ios",
+      "name": "iOS",
+      "repo": "/vsouza/awesome-ios"
+    },
+    {
+      "key": "cordova",
+      "name": "Cordova",
+      "repo": "/busterc/awesome-cordova"
+    },
+    {
+      "key": "docs",
+      "name": "Documentation",
+      "repo": "/PharkMillups/beautiful-docs"
+    },
+    {
+      "key": "svg",
+      "name": "SVG",
+      "repo": "/willianjusten/awesome-svg",
+      "file": "readme.md"
+    },
+    {
+      "key": "images",
+      "name": "Images",
+      "repo": "/heyalexej/awesome-images"
+    },
+    {
+      "key": "front_dev",
+      "name": "Frontend Development",
+      "repo": "/dypsilon/frontend-dev-bookmarks"
+    },
+    {
+      "key": "h5",
+      "name": "HTML5",
+      "repo": "/diegocard/awesome-html5"
+    },
+    {
+      "key": "docker",
+      "name": "Docker",
+      "repo": "/veggiemonk/awesome-docker"
+    },
+    {
+      "key": "gamedev",
+      "name": "Game Development",
+      "repo": "/ellisonleao/magictools"
+    },
+    {
+      "key": "openresty",
+      "name": "OpenResty",
+      "repo": "/bungle/awesome-resty"
+    },
+    {
+      "key": "servicesengineering",
+      "name": "Services Engineering",
+      "repo": "/mmcgrana/services-engineering"
+    },
+    {
+      "key": "sysadmin",
+      "name": "Sysadmin",
+      "repo": "/kahun/awesome-sysadmin"
+    },
+    {
+      "key": "julia",
+      "name": "Julia",
+      "repo": "/svaksha/Julia.jl"
+    },
+    {
+      "key": "sublime",
+      "name": "Sublime Text",
+      "repo": "/dreikanter/sublime-bookmarks"
+    },
+    {
+      "key": "vim",
+      "name": "Vim",
+      "repo": "/akrawchyk/awesome-vim"
+    },
+    {
+      "key": "algorithm",
+      "name": "Algorithm",
+      "repo": "/tayllan/awesome-algorithms"
+    },
+    {
+      "key": "conferences",
+      "name": "Conferences",
+      "repo": "/RichardLitt/awesome-conferences"
+    },
+    {
+      "key": "testbook",
+      "name": "Testing Books",
+      "repo": "/ligurio/free-software-testing-books",
+      "file": "free-software-testing-books.md"
+    },
+    {
+      "key": "koans",
+      "name": "Koans",
+      "repo": "/ahmdrefat/awesome-koans",
+      "file": "koans-en.md"
+    },
+    {
+      "key": "openscience",
+      "name": "Open Science",
+      "repo": "/silky/awesome-open-science"
+    },
+    {
+      "key": "papers",
+      "name": "Papers",
+      "repo": "/papers-we-love/papers-we-love"
+    },
+    {
+      "key": "talks",
+      "name": "Talks",
+      "repo": "/JanVanRyswyck/awesome-talks"
+    },
+    {
+      "key": "analytics",
+      "name": "Analytics",
+      "repo": "/onurakpolat/awesome-analytics"
+    },
+    {
+      "key": "db",
+      "name": "Database",
+      "repo": "/numetriclabz/awesome-db"
+    },
+    {
+      "key": "datascience",
+      "name": "Data Science",
+      "repo": "/okulbilisim/awesome-datascience"
+    },
+    {
+      "key": "dataset",
+      "name": "Dataset",
+      "repo": "/caesar0301/awesome-public-datasets",
+      "file": "README.rst"
+    },
+    {
+      "key": "ml",
+      "name": "Machine Learning",
+      "repo": "/josephmisiti/awesome-machine-learning"
+    },
+    {
+      "key": "hadoop",
+      "name": "Hadoop",
+      "repo": "/youngwookim/awesome-hadoop"
+    },
+    {
+      "key": "tools",
+      "name": "Tools of The Trade",
+      "repo": "/cjbarber/ToolsOfTheTrade"
+    },
+    {
+      "key": "dotfiles",
+      "name": "Dotfiles",
+      "repo": "/webpro/awesome-dotfiles"
+    },
+    {
+      "key": "devenv",
+      "name": "Dev Env",
+      "repo": "/jondot/awesome-devenv"
+    },
+    {
+      "key": "ccm",
+      "name": "Creative Commons Media",
+      "repo": "/shime/creative-commons-media"
+    },
+    {
+      "key": "ciandcd",
+      "name": "Continuous Delivery",
+      "repo": "/itech001/ciandcd"
+    },
+    {
+      "key": "community",
+      "name": "Community",
+      "repo": "/peterkokot/awesome-community"
+    },
+    {
+      "key": "styleguide",
+      "name": "Styleguides",
+      "repo": "/RichardLitt/awesome-styleguides"
+    },
+    {
+      "key": "nlp",
+      "name": "Natural Language Processing",
+      "repo": "/edobashira/speech-language-processing",
+      "file": "README.rst"
+    },
+    {
+      "key": "vagrant",
+      "name": "Vagrant",
+      "repo": "/iJackUA/awesome-vagrant"
+    },
+    {
+      "key": "weekly",
+      "name": "Weekly Newsletters",
+      "repo": "/jondot/awesome-weekly"
+    },
+    {
+      "key": "osx",
+      "name": "OS X",
+      "repo": "/iCHAIT/awesome-osx"
+    },
+    {
+      "key": "wpo",
+      "name": "Web Performance Optimization",
+      "repo": "/davidsonfellipe/awesome-wpo"
+    }
+  ]
+}
